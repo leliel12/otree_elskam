@@ -1,0 +1,181 @@
+CHANGES ARE BROKEN DOWN BY TREATMENT:
+
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
+>               Treatment 1-UA
+>
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+SECTION: "Instructions for Part 2"
+
+DELETE #6
+The auctions you will play in have been designed to guarantee that you will win at least one unit and that the bid you submit on your highest valued unit will never set the clearing price. In other words, you are guaranteed to always win at least one of the two units you demand and that you will never have to pay your highest bid.
+
+ADD:
+These auctions  have been designed to guarantee that you will win at least one unit
+
+
+
+
+
+
+
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
+>               Treatment 1-DA
+>
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+SECTION: "Illustrative Examples"
+
+
+Change this section of the page (Starting at Example 2) to the following:
+…
+
+
+
+ Example 2.
+ The next set of examples illustrates an alternative scenario in which
+ Bidder A bids lower on her first unit in order to win both units while
+ earning more profits.
+
+ Focusing on Table 3, we see that Bidder A earns 2 unit while bidder B
+ earned 1 units. Profits for bidder A on this unit are calculated as
+ follows: the valuation of the unit less the market price. Thus in the case
+ of Table 3, Bidder A’s profits are calculated as:
+
+ Unit 1: 6.3 - 5.8 = 0.5
+
+ Units 2: 4.4 - 4.0 = 0.4
+ Total profits = 0.9
+
+
+ We are interested to see if Bidder A could decrease her first unit bids in
+ order to still win two units but increase her profits on winning the first
+ unit. Table 4 illustrates this case when Bidder A changes her first unit
+ bid from 5.8 to 4.0 on while keeping her bid on the second unit constant.
+ Bidder A still wins two units but is no longer the highest bidder - she is
+ the 2nd and 3rd highest bidder which has no effect on her profits because
+ she still wins. Thus in the case of Table 4, Bidder A’s profits are
+ calculated as:
+
+ Unit 1: 6.3 - 4.0 = 2.3
+ Unit 2: 4.4 - 4.0 = 0.4
+ Total profits = 2.7
+
+ To summarize, examples 1 and 2 illustrated the effect of Bidder A using
+ different strategies on total profits. As was the case in example 1, Bidder
+ A earned more profit when she won two units compared to the case when she
+ won one unit. Example 2 illustrates an equally likely scenario when Bidder
+ A actually earned more revenue by lowering her bid on her first unit while
+ keeping her bid on the second unit constant. Note, it is never profitable
+ for Bidder A to increase her first bid above her valuation for a given unit
+ due to the fact that she will necessarily earn negative profit by paying
+ more for a good than what she values it.
+
+
+
+
+
+
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
+>               Treatment 2-UA
+>
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SECTION: "Illustrative Examples"
+
+
+Starting at Example 2 ( after Table 3 and 4 ) - make these changes to the text:
+
+
+
+Focusing on Table 3, we see that Bidder A earned 2 unit while bidder B and C both earned 3 units. Profits for bidder A on this unit are calculated as follows: the valuation of the unit less the market price.
+…
+
+
+Thus in the case of Table 3, Bidder A’s profits are calculated as:
+
+Unit 1: 6.3 - 2 = 4.3
+Unit 2 : 6.0 - 2 = 4.0
+…
+
+and nothing on unit 3
+Total profits = 8.3
+
+As in the previous example, we are interested to see if Bidder A could increase her third unit bids in order to win 3 (rather than 2) unit. Table 4 illustrates this case when Bidder A changes her bid from 2 to 4 on her lower valued unit while keeping her bid on the higher valued units constant as well as all bids from Bidder B and C constant. This change in bidding strategy resulted in the clearing price now being set by Bidder C’s bid of 3.9. Bidder A wins 3 units and Bidder B wins 3 units while bidder C now only wins 2 and her losing bid sets the clearing price. Thus in the case of Table 4, Bidder A’s profits are calculated as:
+
+Unit 1: 6.3 - 3.9 = 2.4
+Unit 2 : 6.0 - 3.9 = 2.1
+Unit 3: 4.4 - 3.9 = 0.5
+Total profits =  5.0
+
+Consequently, total profits are lower in Table 4 where Bidder A won 3 units relative to Table 3 where Bidder A won only 2 unit.
+
+To summarize, examples 1 and 2 illustrated the effect of Bidder A using different strategies on total profits. As was the case in example 1, Bidder A earned more profit when she won 3 units compared to the case when she won 2 unit. However, example 2 illustrates an equally likely scenario when Bidder A actually earned less revenue when she won 3 rather than 2 unit. Underlying these two illustrative examples is the fact that winning 3 units instead of 2 unit will almost surely increase the clearing price and thus directly reducing the profits you can earn on the first unit. The net result is that in some cases it will be profitable to increase your bid on the third unit (example 1) and in some cases it will not be profitable to increase your bid on the third unit (example 2).
+
+
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
+>               Treatment 2-DA
+>
+>
+> ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>
+
+SECTION: "Illustrative Examples"
+
+CHANGE:
+ Line 9 in Table 2.  change Bidder A to Bidder C
+
+
+CHANGE:
+Line 4 in Table 2: change value from 6.00 to 6.30
+
+
+
+DELETE: The text that comes after Table 3 and Table 4 (it is just repeating the text before these two tables)
+
+
+
+SECTION: " Additional Remarks":
+…
+
+
+ ADD:  Your earnings of $5 from Part 1 will be be automatically added to
+ your starting balance at the beginning of each auction.
+
+ DELETE:
+ 5. To ensure that you never lose money, you may consider restricting your
+ bids to never exceed your valuation. However, if in any case your final
+ balance falls below $0, you will not be asked to pay the balance owing.
+
+ DELETE:
+ 6. We will conduct 2 dry runs to familiarize you with the procedures and
+ accounting rules. This will be followed by 25 periods played for cash.
+
+
+ CHANGE:
+ #4 to :
+  Your final payoff will be determined by only two of the 25 auctions you
+ will play. More specifically, two of the 25 auction rounds will be chosen
+ at random and your profits (losses) earned from that auction will be added
+ (subtracted) to your starting balance of $5 to determine your final
+ balance. All final balances will be paid to you in cash at the end of the
+ experiment.
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ END of CHANGES
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
